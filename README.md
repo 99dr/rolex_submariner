@@ -1,5 +1,4 @@
-# Rolex Submariner:
-# A Comprehensive Technical and Historical Review
+# Rolex Submariner:<br>A Comprehensive Technical and Historical Review
 
 ## 1. [Introduction](introduction.md)
 
