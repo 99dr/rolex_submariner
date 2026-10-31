@@ -2,13 +2,13 @@
 
 ## Summary
 
-### 1. [Introduction](introduction.md)
-### 2. [Historical Background](historical.md)
-### 3. [Chronological Evolution of the Submariner](chronological.md)
-### 4. [Model Classification and Reference Numbers](classification.md)
-### 5. [Technical Specifications and Dimensions](specifications.md)
-### 6. [Materials and Manufacturing](manufacturing.md)
-### 7. [Movement and Mechanical Architecture](mechanical.md)
+### 1. [Introduction](sections/introduction.md)
+### 2. [Historical Background](sections/historical.md)
+### 3. [Chronological Evolution of the Submariner](sections/chronological.md)
+### 4. [Model Classification and Reference Numbers](sections/classification.md)
+### 5. [Technical Specifications and Dimensions](sections/specifications.md)
+### 6. [Materials and Manufacturing](sections/manufacturing.md)
+### 7. [Movement and Mechanical Architecture](sections/mechanical.md)
 
 ### 8. Water Resistance and Diving Technology
 
@@ -97,20 +97,8 @@
 ### 14.7 Long-Term Performance Considerations
 ### 14.8 Factors Affecting Mechanical Performance
 
----
-## 15. Market and Economic Analysis
+### 15. [Market and Economic Analysis](sections.md)
 
-### 15.1 Historical Retail Prices
-### 15.2 Current Retail Prices
-### 15.3 Secondary Market Prices
-### 15.4 Price Differences Between References
-### 15.5 Discontinued Models and Market Demand
-### 15.6 Factors Affecting Market Value
-### 15.7 Price Evolution Over Time
-### 15.8 Differences Between Retail and Resale Markets
-### 15.9 Market Data and Price Comparison Methodology
-
----
 ## 16. Authenticity and Identification
 
 ### 16.1 Reference and Serial Numbers
