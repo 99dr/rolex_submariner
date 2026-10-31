@@ -1,4 +1,4 @@
-[(go to the table of contents)](README.md)
+[(go to the table of contents)](../README.md)
 
 # 7. Movement and Mechanical Architecture
 
