@@ -7,36 +7,10 @@
 ### 3. [Chronological Evolution of the Submariner](chronological.md)
 ### 4. [Model Classification and Reference Numbers](classification.md)
 ### 5. [Technical Specifications and Dimensions](specifications.md)
+### 6. [Materials and Manufacturing](manufacturing.md)
+### 7. [Movement and Mechanical Architecture](mechanical.md)
 
-## 6. Materials and Manufacturing
-
-### 6.1 Oystersteel
-### 6.2 18-Karat Yellow Gold
-### 6.3 18-Karat White Gold
-### 6.4 Rolesor Configurations
-### 6.5 Ceramic Bezel Materials (Cerachrom)
-### 6.6 Sapphire Crystal
-### 6.7 Manufacturing Processes
-### 6.8 Surface Finishing and Polishing
-### 6.9 Corrosion Resistance
-### 6.10 Material Properties and Durability
-
----
-## 7. Movement and Mechanical Architecture
-
-### 7.1 Mechanical Automatic Movement
-### 7.2 Caliber Architecture
-### 7.3 Oscillator and Balance Wheel
-### 7.4 Escapement Mechanism
-### 7.5 Power Reserve
-### 7.6 Operating Frequency
-### 7.7 Automatic Winding System
-### 7.8 Date Mechanism
-### 7.9 Chronometer Certification
-### 7.10 Evolution of Movements Across Generations
-
----
-## 8. Water Resistance and Diving Technology
+### 8. Water Resistance and Diving Technology
 
 ### 8.1 Water-Resistance Ratings
 ### 8.2 Oyster Case Construction
