@@ -1,36 +1,12 @@
 # Rolex Submariner:<br>A Comprehensive Technical and Historical Review
 
-## 1. [Introduction](introduction.md)
+## Summary
 
-## 2. [Historical Background](historical.md)
-
----
-## 3. Chronological Evolution of the Submariner
-
-### 3.1 First Generations
-### 3.2 Early References
-### 3.3 Transition Between Generations
-### 3.4 Introduction of the Date Complication
-### 3.5 Changes in Case Architecture
-### 3.6 Evolution of Bezels and Dials
-### 3.7 Development of Modern Generations
-### 3.8 Historical Timeline
-
----
-## 4. Model Classification and Reference Numbers
-
-### 4.1 Understanding Rolex Reference Numbers
-### 4.2 Submariner Date
-### 4.3 Submariner No-Date
-### 4.4 Stainless Steel Models
-### 4.5 Gold Models
-### 4.6 Two-Tone Models
-### 4.7 Special and Discontinued Models
-### 4.8 Identification of Different Generations
-### 4.9 Reference Number Classification
-
----
-## 5. Technical Specifications and Dimensions
+### 1. [Introduction](introduction.md)
+### 2. [Historical Background](historical.md)
+### 3. [Chronological Evolution of the Submariner](chronological.md)
+### 4. [Model Classification and Reference Numbers](classification.md)
+### 5. [Technical Specifications and Dimensions](specifications.md)
 
 ### 5.1 Case Diameter
 ### 5.2 Case Thickness
@@ -291,3 +267,5 @@
 ### C.3. Independent Technical Sources
 ### C.4. Horological Research Publications
 ### C.5. Supporting Documentation and Archives
+
+# Where to buy new/used Rolex Submariners
