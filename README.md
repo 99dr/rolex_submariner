@@ -9,21 +9,9 @@
 ### 5. [Technical Specifications and Dimensions](sections/specifications.md)
 ### 6. [Materials and Manufacturing](sections/manufacturing.md)
 ### 7. [Movement and Mechanical Architecture](sections/mechanical.md)
+### 8. [Water Resistance and Diving Technology](sections/resistance.md)
+### 9. [Bezel, Dial and Display Systems](sections/systems.md)
 
-### 8. [Water Resistance and Diving Technology](resistance.md)
-
----
-## 9. Bezel, Dial and Display Systems
-
-### 9.1 Unidirectional Rotating Bezel
-### 9.2 Graduation and Elapsed-Time Measurement
-### 9.3 Luminous Materials
-### 9.4 Chromalight
-### 9.5 Dial Configurations
-### 9.6 Hands and Hour Indices
-### 9.7 Date Display
-### 9.8 Functional Differences Between Generations
-### 9.9 Evolution of Display Technologies
 
 ---
 ## 10. Bracelet and Clasp Engineering
