@@ -1,4 +1,6 @@
-# 1. Introduction. [(go to the table of contents)](README.md)
+[(go to the table of contents)](README.md)
+
+# 1. Introduction.
 
 ## 1.1 What Is the Rolex Submariner?
 
