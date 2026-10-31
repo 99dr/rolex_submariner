@@ -823,3 +823,224 @@ internationally recognized watch collection.
 
 ## 2.6 Role of the Submariner in Watchmaking History
 
+The Rolex Submariner occupies an important position in the history of
+modern watchmaking. Introduced in 1953, it contributed to the
+development and popularization of the professional diving watch by
+combining water resistance, elapsed-time measurement, legibility, and
+automatic mechanical timekeeping in a practical wristwatch.
+
+Its historical importance extends beyond its original function. The
+Submariner helped establish a recognizable design language for
+diving watches, influenced expectations regarding the construction
+of professional sports watches, and demonstrated how a specialized
+mechanical instrument could evolve into a widely recognized product
+while retaining its original technical identity.
+
+### Contribution to the Development of the Modern Diving Watch
+
+The Submariner appeared during a period in which underwater
+exploration and recreational diving were expanding. Improvements in
+diving equipment, particularly the development of the Aqua-Lung,
+increased the practical possibilities of underwater activities and
+created demand for specialized instruments.
+
+The introduction of the Submariner in 1953 coincided with the
+emergence of other important diving-watch designs, particularly the
+Blancpain Fifty Fathoms. Both models contributed to the establishment
+of the modern mechanical diving watch, although they followed
+different development histories and design approaches.
+
+The Submariner combined several characteristics that subsequently
+became strongly associated with the category:
+
+- A water-resistant case designed for underwater use.
+- A rotating graduated bezel for measuring elapsed time.
+- A highly legible dial with luminous hands and hour markers.
+- An automatic mechanical movement.
+- A robust external construction suitable for demanding environments.
+
+The importance of this configuration lies not in the invention of
+each individual feature, but in their integration into a practical
+and recognizable wristwatch designed specifically for diving.
+
+The Submariner consequently became one of the principal reference
+models in the development of the modern diving watch.
+
+### Establishment of a Recognizable Design Language
+
+One of the Submariner's most significant contributions to watchmaking
+was the consolidation of a visual design associated with professional
+diving watches.
+
+Its dark dial, luminous hour markers, distinctive hands, rotating
+bezel, and robust case created a functional arrangement that remained
+recognizable across successive generations.
+
+These characteristics served practical purposes. The bezel provided a
+direct means of monitoring elapsed time, while the contrast between
+the dial and luminous indications facilitated reading under reduced
+illumination.
+
+Over time, this combination became an influential design reference
+for other diving watches. Although individual manufacturers developed
+different interpretations, the general arrangement of a dark dial,
+luminous indications, and a rotating timing bezel became widely
+associated with the category.
+
+The Submariner's design continuity is particularly significant.
+Despite substantial changes in materials, dimensions, movements, and
+manufacturing technologies, the model has retained much of its
+original visual identity.
+
+### Influence on Technical Expectations and Diving-Watch Standards
+
+The Submariner also contributed to the development of technical
+expectations for professional diving watches.
+
+Its successive generations incorporated improvements in water
+resistance, crown sealing, bezel construction, luminous materials,
+and mechanical reliability. These developments reflected the
+increasing technical requirements of underwater timekeeping.
+
+An important milestone was the development of the international
+standard ISO 6425 in 1981. This standard established technical and
+performance requirements for watches intended to be classified as
+diving watches.
+
+According to Rolex, several technical specifications and design
+characteristics of the Submariner were taken into account during the
+development of ISO 6425.
+
+The standard addressed characteristics such as water resistance,
+legibility, and the measurement of elapsed time. It provided a more
+systematic framework for evaluating diving watches and distinguishing
+them from ordinary water-resistant wristwatches.
+
+The Submariner should not be considered the sole origin of these
+requirements. Rather, it was one of the influential diving-watch
+designs that contributed to the broader technical context in which
+the category developed.
+
+### The Relationship Between Professional Use and Watchmaking Development
+
+The Submariner's association with professional diving operations
+contributed to its historical reputation.
+
+Its relationship with COMEX, formalized in 1971, connected Rolex with
+a company involved in commercial diving and underwater engineering.
+COMEX divers subsequently used Rolex watches, providing a practical
+context for evaluating their performance in demanding environments.
+
+The model was also associated with underwater expeditions, including
+the 1974 dive beneath the North Polar ice cap led by Dr. Joe MacInnis.
+
+These associations helped establish the Submariner as more than a
+watch designed to suggest an underwater function. They connected its
+identity with actual diving activities and the technical challenges
+encountered in underwater environments.
+
+Professional use and testing were therefore important elements of the
+model's historical development, although they should be distinguished
+from formal laboratory certification and from the specifications of
+individual production references.
+
+### Influence on the Professional Sports-Watch Category
+
+The Submariner contributed to the broader development of the
+professional sports watch as a distinct category within mechanical
+watchmaking.
+
+During the twentieth century, manufacturers increasingly developed
+specialized wristwatches for particular activities and environments.
+Examples included watches designed for pilots, explorers, divers,
+and other professional users.
+
+The Submariner demonstrated how a watch developed for a specific
+technical purpose could also function as a general-purpose
+wristwatch.
+
+Its robust construction, automatic movement, and relatively
+straightforward display made it suitable for everyday use outside
+underwater activities. This versatility contributed to the expansion
+of its audience beyond professional divers.
+
+The model therefore illustrates an important transition in
+watchmaking: specialized functional instruments could acquire broader
+applications without losing their original technical characteristics.
+
+### Transformation from Professional Instrument to Cultural Icon
+
+The Submariner's historical importance is also related to its
+cultural visibility.
+
+Its appearance in the James Bond films beginning with *Dr. No* in
+1962 introduced the watch to audiences beyond the traditional
+watchmaking and diving communities.
+
+The association with cinema, together with its recognizable design
+and long production history, contributed to its development into one
+of the most widely recognized mechanical sports watches.
+
+This transformation was also reflected in the expansion of the
+collection. The introduction of the Submariner Date, precious-metal
+versions, and different bezel and dial configurations broadened its
+appeal.
+
+As a result, the Submariner gradually occupied two distinct positions:
+
+- **As a technical instrument:** A mechanical wristwatch designed to
+provide reliable timekeeping and elapsed-time measurement during
+underwater activities.
+- **As a luxury sports watch:** A recognizable product associated
+with mechanical craftsmanship, design continuity, and cultural
+visibility.
+
+These roles are not mutually exclusive. The historical significance
+of the Submariner partly derives from the way its original functional
+identity was preserved while its commercial and cultural importance
+expanded.
+
+### Influence on Subsequent Diving-Watch Designs
+
+The Submariner became an important reference point for subsequent
+generations of diving watches.
+
+Its influence can be observed in the widespread adoption of design
+elements such as rotating timing bezels, luminous dial indications,
+robust cases, and high-contrast displays.
+
+However, the presence of similar characteristics in other watches
+does not necessarily establish direct design influence or copying.
+Many of these features respond to common functional requirements
+associated with underwater timekeeping.
+
+The Submariner is therefore best understood as one of the principal
+models that helped define the modern visual and functional language
+of the diving watch, rather than as the exclusive origin of that
+language.
+
+### Historical Significance
+
+The role of the Submariner in watchmaking history can be summarized
+through several major contributions:
+
+| Area | Historical contribution |
+|---|---|
+| Diving-watch development | Helped establish the modern configuration of the mechanical diving wristwatch |
+| Functional integration | Combined water resistance, elapsed-time measurement, legibility, and automatic timekeeping |
+| Design language | Established a recognizable arrangement of dial, hands, bezel, and case |
+| Technical development | Contributed to evolving expectations regarding water resistance and professional-watch construction |
+| Industry standards | Formed part of the technical context associated with the development of ISO 6425 |
+| Professional applications | Developed associations with commercial diving and underwater exploration |
+| Sports-watch category | Demonstrated the transition from specialized instrument to versatile everyday wristwatch |
+| Cultural influence | Became internationally recognizable through cinema, collecting, and popular culture |
+
+The Rolex Submariner's importance in watchmaking history is therefore
+not based on a single invention or technical breakthrough. It results
+from the sustained development of a coherent product concept over
+several decades.
+
+By combining functional design, progressive engineering improvements,
+recognizable aesthetics, and broad cultural acceptance, the
+Submariner became one of the defining examples of the modern
+mechanical diving watch.
