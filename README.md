@@ -1,4 +1,4 @@
-# Rolex Submariner:<br>A Comprehensive Technical and Historical Review
+# Rolex Submariner:<br>A Comprehensive Technical and Historical Review<br>(non-official)
 
 ## Summary
 
@@ -18,19 +18,7 @@
 ### 14. [Performance and Mechanical Characteristics](sections/performance.md)
 ### 15. [Market and Economic Analysis](sections/market.md)
 ### 16. [Authenticity and Identification](sections/authenticity.md)
-
----
-## 17. Maintenance and Technical Servicing
-
-### 17.1 Recommended Servicing Considerations
-### 17.2 Movement Maintenance
-### 17.3 Gasket Replacement
-### 17.4 Water-Resistance Testing
-### 17.5 Bracelet Maintenance
-### 17.6 Component Replacement
-### 17.7 Professional Servicing
-### 17.8 Long-Term Preservation
-### 17.9 Maintenance Considerations Across Generations
+### 17. [Maintenance and Technical Servicing](sections/maintenance.md)
 
 ---
 ## 18. Historical and Technical Comparisons
