@@ -580,7 +580,246 @@ Submariner*.
 
 ## 2.5 Important Historical Milestones
 
+The history of the Rolex Submariner includes several milestones that
+significantly influenced its technical development, product
+configuration, and public recognition. Some milestones involved
+functional improvements, such as increased water resistance and
+changes to the winding crown. Others expanded the collection through
+new complications, materials, and design variations.
 
+The following chronology highlights selected events that had a
+lasting influence on the model.
+
+### 1953 – Introduction of the Rolex Submariner
+
+Rolex introduced the Submariner as its first purpose-built diving
+wristwatch. The original model was guaranteed waterproof to a depth
+of 100 metres (330 feet) and combined an Oyster case, an automatic
+movement, and a rotating graduated bezel.
+
+The launch established the basic configuration that would remain
+recognizable throughout the collection's subsequent development.
+
+### 1954 – Increased Water Resistance
+
+One year after its introduction, the Submariner's guaranteed water
+resistance was increased to 200 metres (660 feet).
+
+This improvement represented an important early development in the
+model's technical capabilities and reinforced its position as a
+specialized instrument for underwater activities.
+
+### 1959 – Introduction of Crown Guards
+
+The reference 5512 introduced protective structures around the
+winding crown. These crown guards were designed to reduce the risk of
+accidental impacts damaging the crown or compromising the case's
+water resistance.
+
+Their introduction marked an important change in the external
+architecture of the Submariner. Crown guards subsequently became a
+defining characteristic of the collection.
+
+### 1962 – Appearance in the First James Bond Film
+
+The Submariner appeared on Sean Connery's wrist in *Dr. No*, the
+first James Bond film, released in 1962.
+
+This appearance contributed to the watch's public visibility beyond
+the diving and professional-instrument communities. Its association
+with the James Bond character became an important element of its
+cultural history.
+
+### 1969 – Introduction of the Submariner Date and Yellow-Gold Models
+
+Rolex introduced the Submariner Date, incorporating a date display at
+the three o'clock position. The date was magnified by the Cyclops
+lens positioned over the crystal.
+
+The collection also expanded with the introduction of a yellow-gold
+Submariner configuration.
+
+These developments marked a significant change in the positioning of
+the collection. The Submariner was no longer represented exclusively
+by its traditional stainless-steel, no-date configuration, but had
+developed into a broader range of models.
+
+*Historical dating note: Some independent reference histories place
+the first production examples of the date-equipped reference 1680 in
+the mid- to late 1960s. Rolex's current historical account identifies
+1969 as the year in which it unveiled the Submariner Date. These
+dates should not be treated as necessarily describing the same
+production or announcement event.*
+
+### 1970 – Introduction of the Triplock Crown
+
+Rolex introduced the Triplock winding crown, which incorporated three
+sealed zones to improve protection against water intrusion.
+
+The system was progressively incorporated into the Submariner range
+from the early 1970s. It represented a further development of the
+screw-down crown architecture and became an important component of
+the modern Submariner's water-resistance system.
+
+### 1971 – Formalization of the COMEX Partnership
+
+Rolex formalized its relationship with COMEX (Compagnie Maritime
+d’Expertises), a French company specializing in underwater
+engineering and professional diving operations.
+
+COMEX divers subsequently used Rolex Submariner watches, while the
+collaboration also contributed to the development of equipment and
+procedures for testing water resistance under pressure.
+
+The partnership connected the Submariner with professional diving
+operations and provided a practical context for evaluating its
+performance in demanding underwater environments.
+
+### 1974 – Use During a North Polar Under-Ice Expedition
+
+On 18 April 1974, a team led by Dr. Joe MacInnis conducted a dive
+beneath the North Polar ice cap. Some members of the expedition
+wore Submariner watches.
+
+This event illustrated the use of the watch in an extreme
+environment involving cold temperatures, restricted access to the
+surface, and demanding underwater conditions.
+
+### 1979 – Water Resistance Increased to 300 Metres
+
+The guaranteed water resistance of the Submariner Date was
+increased from 200 to 300 metres (1,000 feet) in 1979.
+
+This development established the 300-metre rating that would become
+one of the defining specifications of the modern Submariner Date.
+
+### 1981 – Recognition of Diving-Watch Design Principles
+
+The international standard ISO 6425 established technical and
+performance criteria for watches intended for diving. Rolex
+identifies several of the Submariner's technical specifications and
+design characteristics as having been taken into account during the
+development of this standard.
+
+The standard provided a more formal framework for defining the
+requirements of a diving watch, including water resistance,
+legibility, and elapsed-time measurement.
+
+This milestone should be understood in the context of the broader
+development of professional diving watches rather than as a
+certification of every Submariner reference under the standard.
+
+### 1985 – Introduction of 904L Steel
+
+Rolex began using 904L stainless steel for the Submariner Date case
+and bracelet components.
+
+This alloy offered different corrosion-resistance and manufacturing
+characteristics compared with the stainless steels commonly used in
+watchmaking at the time. Rolex subsequently adopted the material
+more broadly across its collection.
+
+In 2018, the company introduced the name Oystersteel for its
+proprietary use of this steel family.
+
+### 1989 – Water Resistance Increased on the No-Date Submariner
+
+The no-date Submariner received a guaranteed water resistance of 300
+metres (1,000 feet), matching the rating previously introduced on the
+Submariner Date in 1979.
+
+This change brought the two principal configurations of the
+collection to the same nominal water-resistance specification.
+
+### 2003 – Fiftieth Anniversary and Green-Bezel Submariner
+
+To commemorate the Submariner's fiftieth anniversary, Rolex
+introduced the reference 16610LV.
+
+This stainless-steel Submariner Date featured a green anodized
+aluminium bezel insert, distinguishing it from the traditional
+black-bezel configuration. Its black dial and green bezel gave the
+model a distinctive appearance.
+
+The reference became an important anniversary model and is commonly
+known among collectors as the "Kermit."
+
+### 2010 – Introduction of Ceramic Bezel Inserts in Stainless-Steel Models
+
+The Submariner Date received a major update with the introduction of
+Cerachrom ceramic bezel inserts in its stainless-steel models.
+
+The new bezel material offered high resistance to scratching,
+corrosion, and ultraviolet-related colour degradation. The same
+generation also introduced a substantially revised case design,
+commonly called the Maxi Case by collectors, and an updated
+bracelet and clasp architecture.
+
+This development marked the transition from traditional aluminium
+bezel inserts to modern ceramic construction in the principal
+stainless-steel Submariner models.
+
+### 2020 – Introduction of the 41 mm Generation
+
+Rolex introduced a redesigned Submariner collection with a nominal
+case diameter of 41 mm.
+
+The new generation included the no-date reference 124060 and the
+Submariner Date reference 126610. Both featured revised case
+proportions and updated mechanical movements:
+
+- **Calibre 3230:** Introduced in the no-date Submariner.
+- **Calibre 3235:** Used in the Submariner Date.
+
+Both movements incorporate the Chronergy escapement and provide an
+approximately 70-hour power reserve.
+
+The 2020 redesign represented a major modernization of the collection
+while preserving its characteristic visual and functional elements.
+
+### Summary of Important Historical Milestones
+
+| Year | Milestone | Historical or technical significance |
+|---|---|---|
+| 1953 | Introduction of the Submariner | First Rolex diving wristwatch; 100 m water resistance |
+| 1954 | Increased water resistance | Guaranteed depth increased to 200 m |
+| 1959 | Introduction of crown guards | Improved protection of the winding crown |
+| 1962 | Appearance in *Dr. No* | Beginning of the Submariner's association with James Bond |
+| 1969 | Submariner Date and yellow-gold models | Expansion of the collection's configurations |
+| 1970 | Introduction of the Triplock crown | Improved crown-sealing architecture |
+| 1971 | Formalization of the COMEX partnership | Association with professional diving operations |
+| 1974 | North Polar under-ice expedition | Use in an extreme underwater environment |
+| 1979 | Submariner Date reaches 300 m | Increased guaranteed water resistance |
+| 1981 | Development of ISO 6425 | Formalization of diving-watch requirements |
+| 1985 | Introduction of 904L steel | Change in case and bracelet material |
+| 1989 | No-date Submariner reaches 300 m | Standardization of water-resistance rating across the two configurations |
+| 2003 | Fiftieth-anniversary reference 16610LV | Introduction of the green-bezel anniversary model |
+| 2010 | Ceramic bezel in stainless-steel models | Introduction of Cerachrom and revised case architecture |
+| 2020 | Introduction of the 41 mm generation | Updated case proportions and calibres 3230 and 3235 |
+
+### Historical Significance
+
+The milestones in the Submariner's history illustrate three broad
+dimensions of its development.
+
+First, its technical evolution involved improvements to water
+resistance, crown construction, case protection, materials, and
+mechanical movements. These changes progressively modernized the
+watch while preserving its original purpose.
+
+Second, the collection expanded beyond its initial configuration. The
+introduction of the date complication, precious-metal versions, and
+different bezel colours created a broader product family.
+
+Third, the Submariner acquired cultural and historical significance
+beyond its original function. Its association with professional
+divers, underwater expeditions, cinema, and the development of modern
+watchmaking contributed to its recognition as one of the most
+influential diving-watch designs.
+
+Together, these developments explain how a specialized mechanical
+instrument introduced in 1953 became a long-running and
+internationally recognized watch collection.
 
 ## 2.6 Role of the Submariner in Watchmaking History
 
