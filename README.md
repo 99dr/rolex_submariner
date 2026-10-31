@@ -11,82 +11,13 @@
 ### 7. [Movement and Mechanical Architecture](sections/mechanical.md)
 ### 8. [Water Resistance and Diving Technology](sections/resistance.md)
 ### 9. [Bezel, Dial and Display Systems](sections/systems.md)
-
-
----
-## 10. Bracelet and Clasp Engineering
-
-### 10.1 Oyster Bracelet Construction
-### 10.2 Link Architecture
-### 10.3 Oysterlock Safety Clasp
-### 10.4 Glidelock Extension System
-### 10.5 Bracelet Materials
-### 10.6 Historical Changes in Bracelet Design
-### 10.7 Adjustment Mechanisms and Ergonomics
-### 10.8 Bracelet Compatibility Across References
-
----
-## 11. Detailed Comparison of Submariner References
-
-### 11.1 Comparison of Historical References
-### 11.2 Comparison of Modern References
-### 11.3 Differences in Case Architecture
-### 11.4 Differences in Dimensions
-### 11.5 Differences in Movement Calibers
-### 11.6 Differences in Bezel Construction
-### 11.7 Differences in Dial Configurations
-### 11.8 Differences in Bracelet Architecture
-### 11.9 Reference Identification and Comparison Tables
-
----
-## 12. Submariner Date vs. Submariner No-Date
-
-### 12.1 Mechanical Differences
-### 12.2 Dial Differences
-### 12.3 Movement Differences
-### 12.4 Historical Development
-### 12.5 Dimensions and Weight
-### 12.6 Functional Characteristics
-### 12.7 Technical Comparison
-### 12.8 Reference-Specific Differences
-
----
-## 13. Evolution of Submariner Technical Specifications
-
-### 13.1 Evolution of Case Dimensions
-### 13.2 Evolution of Materials
-### 13.3 Evolution of Movement Architecture
-### 13.4 Evolution of Water Resistance
-### 13.5 Evolution of Bezel Technology
-### 13.6 Evolution of Bracelet Systems
-### 13.7 Evolution of Luminous Materials
-### 13.8 Evolution of Manufacturing Precision
-### 13.9 Summary of Technical Developments
-
----
-## 14. Performance and Mechanical Characteristics
-
-### 14.1 Accuracy and Precision
-### 14.2 Power Reserve Performance
-### 14.3 Magnetic Resistance
-### 14.4 Shock Resistance
-### 14.5 Mechanical Reliability
-### 14.6 Maintenance Requirements
-### 14.7 Long-Term Performance Considerations
-### 14.8 Factors Affecting Mechanical Performance
-
-### 15. [Market and Economic Analysis](sections.md)
-
-## 16. Authenticity and Identification
-
-### 16.1 Reference and Serial Numbers
-### 16.2 Movement Identification
-### 16.3 Case and Bracelet Identification
-### 16.4 Dial and Bezel Variations
-### 16.5 Genuine vs. Counterfeit Components
-### 16.6 Documentation and Certificates
-### 16.7 Authentication Limitations
-### 16.8 Common Identification Errors
+### 10. [Bracelet and Clasp Engineering](sections/bracelet.md)
+### 11. [Detailed Comparison of Submariner References](sections/comparison.md)
+### 12. [Submariner Date vs. Submariner No-Date](sections/dateno.md)
+### 13. [Evolution of Submariner Technical Specifications](sections/evolution.md)
+### 14. [Performance and Mechanical Characteristics](sections/performance.md)
+### 15. [Market and Economic Analysis](sections/market.md)
+### 16. [Authenticity and Identification](sections/authenticity.md)
 
 ---
 ## 17. Maintenance and Technical Servicing
