@@ -1,4 +1,4 @@
-[(go to the table of contents)](README.md)
+[(go to the table of contents)](../README.md)
 
 # 3. Chronological Evolution of the Submariner
 
