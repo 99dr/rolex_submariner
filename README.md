@@ -1,1 +1,293 @@
-# rolex_submariner
+# Rolex Submariner: A Comprehensive Technical and Historical Review
+
+## 1. [Introduction](introduction.md)
+
+## 2. [Historical Background](historical.md)
+
+---
+## 3. Chronological Evolution of the Submariner
+
+### 3.1 First Generations
+### 3.2 Early References
+### 3.3 Transition Between Generations
+### 3.4 Introduction of the Date Complication
+### 3.5 Changes in Case Architecture
+### 3.6 Evolution of Bezels and Dials
+### 3.7 Development of Modern Generations
+### 3.8 Historical Timeline
+
+---
+## 4. Model Classification and Reference Numbers
+
+### 4.1 Understanding Rolex Reference Numbers
+### 4.2 Submariner Date
+### 4.3 Submariner No-Date
+### 4.4 Stainless Steel Models
+### 4.5 Gold Models
+### 4.6 Two-Tone Models
+### 4.7 Special and Discontinued Models
+### 4.8 Identification of Different Generations
+### 4.9 Reference Number Classification
+
+---
+## 5. Technical Specifications and Dimensions
+
+### 5.1 Case Diameter
+### 5.2 Case Thickness
+### 5.3 Lug-to-Lug Dimensions
+### 5.4 Lug Width
+### 5.5 Crystal Specifications
+### 5.6 Dial Characteristics
+### 5.7 Bezel Specifications
+### 5.8 Crown Construction
+### 5.9 Bracelet Specifications
+### 5.10 Weight and Dimensional Variations
+
+---
+## 6. Materials and Manufacturing
+
+### 6.1 Oystersteel
+### 6.2 18-Karat Yellow Gold
+### 6.3 18-Karat White Gold
+### 6.4 Rolesor Configurations
+### 6.5 Ceramic Bezel Materials (Cerachrom)
+### 6.6 Sapphire Crystal
+### 6.7 Manufacturing Processes
+### 6.8 Surface Finishing and Polishing
+### 6.9 Corrosion Resistance
+### 6.10 Material Properties and Durability
+
+---
+## 7. Movement and Mechanical Architecture
+
+### 7.1 Mechanical Automatic Movement
+### 7.2 Caliber Architecture
+### 7.3 Oscillator and Balance Wheel
+### 7.4 Escapement Mechanism
+### 7.5 Power Reserve
+### 7.6 Operating Frequency
+### 7.7 Automatic Winding System
+### 7.8 Date Mechanism
+### 7.9 Chronometer Certification
+### 7.10 Evolution of Movements Across Generations
+
+---
+## 8. Water Resistance and Diving Technology
+
+### 8.1 Water-Resistance Ratings
+### 8.2 Oyster Case Construction
+### 8.3 Screw-Down Crown
+### 8.4 Caseback Sealing
+### 8.5 Triplock Winding Crown
+### 8.6 Pressure Resistance
+### 8.7 Historical Development of Diving-Watch Technology
+### 8.8 Practical Interpretation of Water-Resistance Ratings
+### 8.9 Water-Resistance Testing and Limitations
+
+---
+## 9. Bezel, Dial and Display Systems
+
+### 9.1 Unidirectional Rotating Bezel
+### 9.2 Graduation and Elapsed-Time Measurement
+### 9.3 Luminous Materials
+### 9.4 Chromalight
+### 9.5 Dial Configurations
+### 9.6 Hands and Hour Indices
+### 9.7 Date Display
+### 9.8 Functional Differences Between Generations
+### 9.9 Evolution of Display Technologies
+
+---
+## 10. Bracelet and Clasp Engineering
+
+### 10.1 Oyster Bracelet Construction
+### 10.2 Link Architecture
+### 10.3 Oysterlock Safety Clasp
+### 10.4 Glidelock Extension System
+### 10.5 Bracelet Materials
+### 10.6 Historical Changes in Bracelet Design
+### 10.7 Adjustment Mechanisms and Ergonomics
+### 10.8 Bracelet Compatibility Across References
+
+---
+## 11. Detailed Comparison of Submariner References
+
+### 11.1 Comparison of Historical References
+### 11.2 Comparison of Modern References
+### 11.3 Differences in Case Architecture
+### 11.4 Differences in Dimensions
+### 11.5 Differences in Movement Calibers
+### 11.6 Differences in Bezel Construction
+### 11.7 Differences in Dial Configurations
+### 11.8 Differences in Bracelet Architecture
+### 11.9 Reference Identification and Comparison Tables
+
+---
+## 12. Submariner Date vs. Submariner No-Date
+
+### 12.1 Mechanical Differences
+### 12.2 Dial Differences
+### 12.3 Movement Differences
+### 12.4 Historical Development
+### 12.5 Dimensions and Weight
+### 12.6 Functional Characteristics
+### 12.7 Technical Comparison
+### 12.8 Reference-Specific Differences
+
+---
+## 13. Evolution of Submariner Technical Specifications
+
+### 13.1 Evolution of Case Dimensions
+### 13.2 Evolution of Materials
+### 13.3 Evolution of Movement Architecture
+### 13.4 Evolution of Water Resistance
+### 13.5 Evolution of Bezel Technology
+### 13.6 Evolution of Bracelet Systems
+### 13.7 Evolution of Luminous Materials
+### 13.8 Evolution of Manufacturing Precision
+### 13.9 Summary of Technical Developments
+
+---
+## 14. Performance and Mechanical Characteristics
+
+### 14.1 Accuracy and Precision
+### 14.2 Power Reserve Performance
+### 14.3 Magnetic Resistance
+### 14.4 Shock Resistance
+### 14.5 Mechanical Reliability
+### 14.6 Maintenance Requirements
+### 14.7 Long-Term Performance Considerations
+### 14.8 Factors Affecting Mechanical Performance
+
+---
+## 15. Market and Economic Analysis
+
+### 15.1 Historical Retail Prices
+### 15.2 Current Retail Prices
+### 15.3 Secondary Market Prices
+### 15.4 Price Differences Between References
+### 15.5 Discontinued Models and Market Demand
+### 15.6 Factors Affecting Market Value
+### 15.7 Price Evolution Over Time
+### 15.8 Differences Between Retail and Resale Markets
+### 15.9 Market Data and Price Comparison Methodology
+
+---
+## 16. Authenticity and Identification
+
+### 16.1 Reference and Serial Numbers
+### 16.2 Movement Identification
+### 16.3 Case and Bracelet Identification
+### 16.4 Dial and Bezel Variations
+### 16.5 Genuine vs. Counterfeit Components
+### 16.6 Documentation and Certificates
+### 16.7 Authentication Limitations
+### 16.8 Common Identification Errors
+
+---
+## 17. Maintenance and Technical Servicing
+
+### 17.1 Recommended Servicing Considerations
+### 17.2 Movement Maintenance
+### 17.3 Gasket Replacement
+### 17.4 Water-Resistance Testing
+### 17.5 Bracelet Maintenance
+### 17.6 Component Replacement
+### 17.7 Professional Servicing
+### 17.8 Long-Term Preservation
+### 17.9 Maintenance Considerations Across Generations
+
+---
+## 18. Historical and Technical Comparisons
+
+### 18.1 Rolex Submariner vs. Rolex Sea-Dweller
+### 18.2 Rolex Submariner vs. Omega Seamaster Diver 300M
+### 18.3 Rolex Submariner vs. Tudor Black Bay
+### 18.4 Submariner vs. Other Professional Diving Watches
+### 18.5 Technical and Mechanical Comparisons
+### 18.6 Historical and Design Differences
+
+---
+## 19. Technical Tables and Reference Database
+
+### 19.1 Complete Reference Chronology
+### 19.2 Movement and Caliber Database
+### 19.3 Dimensions by Reference
+### 19.4 Materials by Reference
+### 19.5 Water-Resistance Specifications by Reference
+### 19.6 Production Periods
+### 19.7 Model Configurations
+### 19.8 Bracelet and Clasp Specifications
+### 19.9 Technical Comparison Tables
+### 19.10 Cross-Reference Index
+
+---
+## 20. Glossary of Watchmaking Terminology
+
+### 20.1 Caliber
+### 20.2 Escapement
+### 20.3 Balance Wheel
+### 20.4 Power Reserve
+### 20.5 Chronometer
+### 20.6 Oyster Case
+### 20.7 Cerachrom
+### 20.8 Triplock
+### 20.9 Glidelock
+### 20.10 Rolesor
+### 20.11 Other Technical Terms
+
+---
+## 21. References and Documentation
+
+### 21.1 Official Rolex Documentation
+### 21.2 Historical Rolex Catalogs
+### 21.3 Historical Advertisements and Promotional Materials
+### 21.4 Technical Publications
+### 21.5 Watchmaking Literature
+### 21.6 Independent Horological Research
+### 21.7 Historical and Technical Archives
+### 21.8 Sources Used for Technical Specifications
+### 21.9 Sources Used for Historical Information
+### 21.10 Source Reliability and Documentation Standards
+
+---
+## 22. Frequently Asked Questions (FAQ)
+
+### 22.1 What Is the Difference Between the Submariner and Submariner Date?
+### 22.2 How Does the Submariner Movement Work?
+### 22.3 What Makes the Submariner Water-Resistant?
+### 22.4 What Are the Differences Between the References 16610 and 126610?
+### 22.5 How Has the Submariner Evolved Since 1953?
+### 22.6 What Is the Function of the Glidelock Clasp?
+### 22.7 How Does the Cerachrom Bezel Work?
+### 22.8 What Determines the Market Value of a Submariner?
+### 22.9 How Can Different Submariner Generations Be Identified?
+### 22.10 How Often Should a Submariner Be Serviced?
+
+---
+# Appendix A. Technical Data Tables
+
+### A.1. Historical Reference Specifications
+### A.2. Modern Reference Specifications
+### A.3. Movement and Caliber Specifications
+### A.4. Case and Bracelet Dimensions
+### A.5. Materials and Component Specifications
+### A.6. Water-Resistance Specifications
+
+---
+# Appendix B. Reference Identification Guide
+
+### B.1. Reference Number Structure
+### B.2. Serial Number Identification
+### B.3. Generation Identification
+### B.4. Visual Identification Characteristics
+### B.5. Reference Comparison Guide
+
+---
+# Appendix C. Technical and Historical Source Index
+
+### C.1. Official Manufacturer Sources
+### C.2. Historical Documents
+### C.3. Independent Technical Sources
+### C.4. Horological Research Publications
+### C.5. Supporting Documentation and Archives
