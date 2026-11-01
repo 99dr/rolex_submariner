@@ -21,13 +21,14 @@ incorporated improvements to the case construction, sealing systems,
 movement architecture, and display components, progressively
 increasing the watch's technical capabilities.
 
-A defining characteristic of the Submariner is its unidirectional
-rotating bezel, graduated over 60 minutes. This mechanism allows
-the wearer to measure elapsed time by aligning the bezel's reference
-marker with the minute hand. The dial incorporates luminous hands
-and hour markers to improve readability in low-light underwater
-environments. Together, these features established the fundamental
-functional architecture of the modern diving watch.
+A defining characteristic of the Submariner is its rotating bezel,
+which is graduated over 60 minutes. In later generations, the bezel
+became unidirectional, allowing the wearer to measure elapsed time
+while reducing the risk of accidentally extending the indicated
+immersion time. The dial incorporates luminous hands and hour markers
+to improve readability in low-light underwater environments.
+Together, these features contributed to the functional architecture
+of the modern diving watch.
 
 The Submariner is currently produced in two principal
 configurations: the Submariner, without a date complication, and
@@ -69,44 +70,58 @@ sources. Particular attention is given to the identification of
 individual model references, the evolution of technical
 specifications, and the differences between successive generations.
 
+This review places particular emphasis on information that extends
+beyond the manufacturer's general product documentation. It
+prioritizes independent historical research, reference-specific
+technical comparisons, the evolution of mechanical architecture,
+and the analysis of manufacturing and engineering characteristics.
+
+Official manufacturer specifications are retained when necessary
+for technical identification, historical comparison, or source
+verification. However, the document does not aim to reproduce
+manufacturer product descriptions or promotional material without
+additional historical or technical context.
+
 The scope of this review covers the following principal areas:
 
 - **Historical development:** The origins of the Submariner, its
-introduction in 1953, the evolution of its design, and the major
-milestones in its production history.
+  introduction in 1953, the evolution of its design, and the major
+  milestones in its production history.
 
 - **Model identification and classification:** The organization
-of the collection into different configurations, reference numbers,
-materials, production periods, and model generations.
+  of the collection into different configurations, reference numbers,
+  materials, production periods, and model generations.
 
 - **Technical specifications:** Case dimensions, crystal
-construction, dial characteristics, bezel systems, bracelet
-architecture, water-resistance ratings, and other measurable
-characteristics.
+  construction, dial characteristics, bezel systems, bracelet
+  architecture, water-resistance ratings, and other measurable
+  characteristics.
 
 - **Mechanical engineering:** Movement architecture, automatic
-winding systems, escapement mechanisms, oscillator components,
-power reserve, operating frequency, and chronometer certification.
+  winding systems, escapement mechanisms, oscillator components,
+  power reserve, operating frequency, and chronometer certification.
 
 - **Materials and manufacturing:** The properties and applications
-of Oystersteel, precious metals, Cerachrom ceramic, sapphire crystal,
-and other materials used in the construction of the watch.
+  of Oystersteel, precious metals, Cerachrom ceramic, sapphire crystal,
+  and other materials used in the construction of the watch.
 
 - **Functional characteristics:** Water resistance, elapsed-time
-measurement, luminous displays, mechanical performance, and the
-engineering systems that support underwater operation.
+  measurement, luminous displays, mechanical performance, and the
+  engineering systems that support underwater operation.
 
 - **Market and economic aspects:** Historical and current retail
-prices, secondary-market values, production availability, and the
-economic factors influencing the valuation of different references.
+  prices, secondary-market values, production availability, and
+  the economic factors influencing the valuation of different
+  references.
 
 - **Maintenance and authenticity:** Identification methods, servicing
-requirements, component variations, preservation considerations, and
-limitations associated with the authentication of individual watches.
+  requirements, component variations, preservation considerations,
+  and limitations associated with the authentication of individual
+  watches.
 
 - **Comparative analysis:** Technical and historical comparisons
-between the Submariner and other professional diving watches,
-including models from Rolex and other manufacturers.
+  between the Submariner and other professional diving watches,
+  including models from Rolex and other manufacturers.
 
 The historical coverage begins with the development and introduction
 of the Submariner in 1953 and extends to the modern collection.
@@ -161,7 +176,7 @@ provide water resistance through a sealed case structure and
 screw-down components.
 
 **Bezel Type:** Unidirectional rotating bezel with a graduated
-60-minute scale for measuring elapsed time.
+60-minute scale for measuring elapsed time in modern generations.
 
 **Crystal Type:** Scratch-resistant sapphire crystal in modern
 generations.
@@ -178,10 +193,10 @@ The Submariner is available in two principal functional
 configurations:
 
 - **Submariner:** The version without a date complication,
-featuring a simplified dial layout.
+  featuring a simplified dial layout.
 - **Submariner Date:** The version incorporating a date display,
-positioned at 3 o'clock and accompanied by a Cyclops magnifying
-lens on the crystal.
+  positioned at 3 o'clock and accompanied by a Cyclops magnifying
+  lens on the crystal.
 
 Within the broader diving-watch category, the Submariner is
 generally associated with professional-grade mechanical watches.
@@ -268,12 +283,12 @@ For historical and technical analysis, the Submariner collection
 can therefore be examined through three complementary dimensions:
 
 - **Functional configuration:** The distinction between Submariner
-and Submariner Date models.
+  and Submariner Date models.
 - **Material and design configuration:** Variations in metals, dial
-colors, bezel colors, and bracelet characteristics.
+  colors, bezel colors, and bracelet characteristics.
 - **Historical and technical generation:** The successive reference
-families and the mechanical and architectural developments associated
-with each period.
+  families and the mechanical and architectural developments associated
+  with each period.
 
 These dimensions provide the basis for the detailed classification,
 chronological analysis, and technical comparisons presented in the
@@ -329,13 +344,13 @@ treated as separate dimensional parameters.
 Measurements are reported according to the following conventions:
 
 - Case diameter refers to the external diameter of the watch case,
-excluding the crown.
+  excluding the crown.
 - Case thickness refers to the vertical dimension between the upper
-crystal surface and the bottom of the caseback.
+  crystal surface and the bottom of the caseback.
 - Lug-to-lug distance refers to the maximum longitudinal distance
-between the outer ends of the upper and lower lugs.
+  between the outer ends of the upper and lower lugs.
 - Lug width refers to the distance between the internal surfaces of
-the lugs where the bracelet or strap is attached.
+  the lugs where the bracelet or strap is attached.
 
 When measurements are obtained from independent sources rather than
 official manufacturer documentation, their origin and measurement
@@ -417,6 +432,39 @@ Manufacturer terminology is retained when it refers to proprietary
 materials, technologies, or systems. Examples include Oystersteel,
 Rolesor, Cerachrom, Chromalight, Triplock, and Glidelock.
 
+**Source Classification and Evidence**
+
+Sources are evaluated according to their origin, purpose, and
+relevance to the information being documented.
+
+The principal source categories include:
+
+- **Primary manufacturer documentation:** Official product
+  specifications, technical documents, historical catalogs, and
+  manufacturer publications.
+- **Historical documentation:** Period catalogs, contemporary
+  publications, archival records, and other materials documenting
+  the historical context of specific models.
+- **Independent horological research:** Technical articles,
+  reference studies, historical investigations, and publications
+  produced by independent watchmaking researchers.
+- **Technical and scientific publications:** Research and technical
+  documentation relevant to materials, mechanical systems,
+  manufacturing processes, and measurement methods.
+- **Market documentation:** Auction records, historical price
+  lists, and secondary-market databases.
+
+Manufacturer documentation is treated as a primary source for
+specifications and information officially published by the
+manufacturer. Independent sources are used to provide additional
+historical context, technical analysis, comparisons, and alternative
+measurements.
+
+When a claim cannot be adequately supported by the available
+documentation, its evidential limitations are identified. Conflicting
+information is presented with appropriate source attribution rather
+than treated as an established fact.
+
 **Prices and Market Data**
 
 All monetary values are associated with their respective currencies
@@ -461,16 +509,16 @@ The opening chapters establish the scope, terminology, and historical
 context of the document.
 
 - **Chapter 1 – Introduction:** Defines the Rolex Submariner,
-establishes the purpose and scope of the document, introduces the
-collection, and explains the terminology and technical conventions
-used throughout the review.
+  establishes the purpose and scope of the document, introduces the
+  collection, and explains the terminology and technical conventions
+  used throughout the review.
 - **Chapter 2 – Historical Background:** Examines the introduction
-of the Submariner in 1953, its original design objectives, the
-historical development of diving watches, and its significance in
-watchmaking history.
+  of the Submariner in 1953, its original design objectives, the
+  historical development of diving watches, and its significance in
+  watchmaking history.
 - **Chapter 3 – Chronological Evolution of the Submariner:** Presents
-the successive generations of the collection, highlighting major
-design changes, technical developments, and historical milestones.
+  the successive generations of the collection, highlighting major
+  design changes, technical developments, and historical milestones.
 
 **Part II. Model Classification and Technical Architecture (Chapters 4–10)**
 
@@ -478,27 +526,27 @@ This group examines the identification, construction, materials, and
 functional systems of the Submariner.
 
 - **Chapter 4 – Model Classification and Reference Numbers:**
-Explains the reference-number system and classifies the different
-Submariner configurations and generations.
+  Explains the reference-number system and classifies the different
+  Submariner configurations and generations.
 - **Chapter 5 – Technical Specifications and Dimensions:** Documents
-the principal physical dimensions and external specifications of the
-watch.
+  the principal physical dimensions and external specifications of
+  the watch.
 - **Chapter 6 – Materials and Manufacturing:** Examines the
-materials, manufacturing processes, surface treatments, and
-durability characteristics associated with the collection.
+  materials, manufacturing processes, surface treatments, and
+  durability characteristics associated with the collection.
 - **Chapter 7 – Movement and Mechanical Architecture:** Describes
-the mechanical movements, their principal components, winding
-systems, operating characteristics, and chronological development.
+  the mechanical movements, their principal components, winding
+  systems, operating characteristics, and chronological development.
 - **Chapter 8 – Water Resistance and Diving Technology:**
-Investigates the Oyster case, sealing systems, screw-down crown,
-pressure resistance, and engineering principles supporting
-underwater operation.
+  Investigates the Oyster case, sealing systems, screw-down crown,
+  pressure resistance, and engineering principles supporting
+  underwater operation.
 - **Chapter 9 – Bezel, Dial and Display Systems:** Examines the
-rotating bezel, elapsed-time measurement, luminous materials, dial
-configurations, and display components.
+  rotating bezel, elapsed-time measurement, luminous materials, dial
+  configurations, and display components.
 - **Chapter 10 – Bracelet and Clasp Engineering:** Describes
-bracelet construction, clasp mechanisms, adjustment systems,
-materials, and ergonomic characteristics.
+  bracelet construction, clasp mechanisms, adjustment systems,
+  materials, and ergonomic characteristics.
 
 **Part III. Comparative and Performance Analysis (Chapters 11–14)**
 
@@ -507,18 +555,18 @@ comparative analyses and examine the performance characteristics
 of different Submariner generations.
 
 - **Chapter 11 – Detailed Comparison of Submariner References:**
-Compares historical and modern references according to their
-dimensions, movements, materials, bezels, dials, and bracelet
-configurations.
+  Compares historical and modern references according to their
+  dimensions, movements, materials, bezels, dials, and bracelet
+  configurations.
 - **Chapter 12 – Submariner Date vs. Submariner No-Date:**
-Examines the mechanical, functional, historical, and visual
-differences between the two principal configurations.
+  Examines the mechanical, functional, historical, and visual
+  differences between the two principal configurations.
 - **Chapter 13 – Evolution of Submariner Technical Specifications:**
-Synthesizes the historical evolution of the collection's principal
-technical characteristics.
+  Synthesizes the historical evolution of the collection's principal
+  technical characteristics.
 - **Chapter 14 – Performance and Mechanical Characteristics:**
-Evaluates accuracy, power reserve, magnetic resistance, shock
-resistance, reliability, and long-term mechanical performance.
+  Evaluates accuracy, power reserve, magnetic resistance, shock
+  resistance, reliability, and long-term mechanical performance.
 
 **Part IV. Market, Identification, and Maintenance (Chapters 15–17)**
 
@@ -526,22 +574,22 @@ This group addresses the commercial, identification, and maintenance
 aspects of the Submariner.
 
 - **Chapter 15 – Market and Economic Analysis:** Examines historical
-and current retail prices, secondary-market values, market demand,
-and factors influencing the valuation of different references.
+  and current retail prices, secondary-market values, market demand,
+  and factors influencing the valuation of different references.
 - **Chapter 16 – Authenticity and Identification:** Discusses
-reference and serial numbers, component identification, variations,
-documentation, counterfeit components, and authentication
-limitations.
+  reference and serial numbers, component identification, variations,
+  documentation, counterfeit components, and authentication
+  limitations.
 - **Chapter 17 – Maintenance and Technical Servicing:** Describes
-servicing considerations, movement maintenance, water-resistance
-testing, component replacement, and long-term preservation.
+  servicing considerations, movement maintenance, water-resistance
+  testing, component replacement, and long-term preservation.
 
 **Part V. Historical and Technical Comparisons (Chapter 18)**
 
 - **Chapter 18 – Historical and Technical Comparisons:** Places
-the Submariner in the broader context of professional diving
-watches through comparisons with the Rolex Sea-Dweller, Omega
-Seamaster Diver 300M, Tudor Black Bay, and other relevant models.
+  the Submariner in the broader context of professional diving
+  watches through comparisons with the Rolex Sea-Dweller, Omega
+  Seamaster Diver 300M, Tudor Black Bay, and other relevant models.
 
 **Part VI. Reference Data and Supporting Documentation (Chapters 19–22)**
 
@@ -549,18 +597,18 @@ The final chapters provide structured technical information and
 supplementary reference material.
 
 - **Chapter 19 – Technical Tables and Reference Database:**
-Consolidates reference chronologies, movement specifications,
-dimensions, materials, water-resistance ratings, production periods,
-and model configurations.
+  Consolidates reference chronologies, movement specifications,
+  dimensions, materials, water-resistance ratings, production periods,
+  and model configurations.
 - **Chapter 20 – Glossary of Watchmaking Terminology:** Defines the
-principal technical and horological terms used throughout the
-document.
+  principal technical and horological terms used throughout the
+  document.
 - **Chapter 21 – References and Documentation:** Identifies the
-official, historical, technical, and independent sources supporting
-the information presented in the review.
+  official, historical, technical, and independent sources supporting
+  the information presented in the review.
 - **Chapter 22 – Frequently Asked Questions (FAQ):** Provides concise
-answers to common questions concerning the Submariner's history,
-technical characteristics, configurations, and market value.
+  answers to common questions concerning the Submariner's history,
+  technical characteristics, configurations, and market value.
 
 **Appendices**
 
@@ -568,14 +616,14 @@ Three appendices provide supplementary information intended to
 facilitate technical consultation and reference identification.
 
 - **Appendix A – Technical Data Tables:** Consolidates historical
-and modern reference specifications, movement characteristics,
-dimensions, materials, and water-resistance data.
+  and modern reference specifications, movement characteristics,
+  dimensions, materials, and water-resistance data.
 - **Appendix B – Reference Identification Guide:** Provides
-additional information on reference numbers, serial numbers,
-generations, and visual identification characteristics.
+  additional information on reference numbers, serial numbers,
+  generations, and visual identification characteristics.
 - **Appendix C – Technical and Historical Source Index:**
-Organizes the principal manufacturer documents, historical records,
-independent publications, and supporting research sources.
+  Organizes the principal manufacturer documents, historical records,
+  independent publications, and supporting research sources.
 
 **Cross-References and Information Organization**
 
