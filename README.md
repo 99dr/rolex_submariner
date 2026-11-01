@@ -24,6 +24,7 @@
 ### 20. [Glossary of Watchmaking Terminology](sections/glossary.md)
 ### 21. [References and Documentation](sections/references.md)
 ### 22. [Frequently Asked Questions (FAQ)](sections/faqs.md)
-### [Appendix A. Technical Data Tables](sections/appendixa.md)
-### [Appendix B. Reference Identification Guide](sections/appendixb.md)
-### [Appendix C. Technical and Historical Source Index](sections/appendixc.md)
+### 23. Appendixes
+#### [A. Technical Data Tables](sections/appendixa.md)
+#### [B. Reference Identification Guide](sections/appendixb.md)
+#### [C. Technical and Historical Source Index](sections/appendixc.md)
